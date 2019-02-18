@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/ic_business"
+            android:title="@string/pref_topic_0_label" />
+        <item
+            android:id="@+id/nav_entertinment"
+            android:icon="@drawable/ic_entertainment"
+            android:title="@string/pref_topic_1_label" />
+        <item
+            android:id="@+id/nav_general"
+            android:icon="@drawable/ic_general"
+            android:title="@string/pref_topic_2_label" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@drawable/ic_health"
+            android:title="@string/pref_topic_3_label" />
+        <item
+            android:id="@+id/nav_science"
+            android:icon="@drawable/ic_science"
+            android:title="@string/pref_topic_4_label" />
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/ic_sport"
+            android:title="@string/pref_topic_5_label" />
+        <item
+            android:id="@+id/nav_technology"
+            android:icon="@drawable/ic_technology"
+            android:title="@string/pref_topic_6_label" />
+        <item
+            android:id="@+id/nav_nirma"
+            android:icon="@drawable/ic_nirma"
+            android:title="@string/pref_topic_7_label" />
+
+    </group>
+
+
+
+</menu>

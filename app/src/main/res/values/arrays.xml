@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_topic_labels">
+        <item>@string/pref_topic_0_label</item>
+        <item>@string/pref_topic_1_label</item>
+        <item>@string/pref_topic_2_label</item>
+        <item>@string/pref_topic_3_label</item>
+        <item>@string/pref_topic_4_label</item>
+        <item>@string/pref_topic_5_label</item>
+        <item>@string/pref_topic_6_label</item>
+        <item>@string/pref_topic_7_label</item>
+    </string-array>
+    <string-array name="pref_topic_values">
+        <item>@string/pref_topic_0_label_value</item>
+        <item>@string/pref_topic_1_label_value</item>
+        <item>@string/pref_topic_2_label_value</item>
+        <item>@string/pref_topic_3_label_value</item>
+        <item>@string/pref_topic_4_label_value</item>
+        <item>@string/pref_topic_5_label_value</item>
+        <item>@string/pref_topic_6_label_value</item>
+        <item>@string/pref_topic_7_label_value</item>
+    </string-array>
+</resources>
